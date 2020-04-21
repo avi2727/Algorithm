@@ -2,6 +2,7 @@ import math
 import datetime
 
 
+
 class Utility:
     @staticmethod
     def checkAnagram(s1, s2):
